@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "首页"
+    url: /
+  - title: "归档"  # 这里以后会按年份列出你的所有文章
+    url: /year-archive/
+  - title: "关于我"
     url: /about/
+  - title: "B站主页"
+    url: https://space.bilibili.com/1413330916
