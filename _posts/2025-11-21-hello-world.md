@@ -1,5 +1,5 @@
 ---
-title: "你好！这是我的第一篇学术随笔"
+title: "Hello World!"
 date: 2025-11-21
 categories:
   - 随笔
@@ -7,7 +7,7 @@ tags:
   - 数学
   - 东南大学
   - 生活
-  - 记录
+  - 伯克利
 toc: true  # 开启侧边目录
 mathjax: true
 
@@ -42,3 +42,9 @@ $$
 “故生而强者不必自喜也，生而弱者不必自悲也。 吾生而弱乎，或者天之诱我以至于强，未可知也。”
 
 2025年11月21日于加州大学伯克利
+
+
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
