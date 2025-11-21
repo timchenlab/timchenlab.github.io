@@ -9,6 +9,8 @@ tags:
   - 生活
   - 记录
 toc: true  # 开启侧边目录
+mathjax: true：
+
 header:
   overlay_image: https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&q=80
   overlay_filter: 0.5 # 滤镜，让文字更清晰
