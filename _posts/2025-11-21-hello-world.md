@@ -30,9 +30,7 @@ excerpt: "这是文章的摘要。在这里，我将开始记录我的学术与�
 作为学术主页，LaTeX自然是必不可少：
 
 $$
-
 \hat{f}(\xi)=\int_{\mathbb{R}^n}e^{-2\pi i x\cdot \xi} \mathrm{d}x.
-
 $$
 
 
